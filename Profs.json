@@ -1,0 +1,1322 @@
+  "mapFeature.customPois": [
+    {
+      "name": "Scribing | 1-14 | Crabs | Costal Sand \u0026 Fresh Water",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -753,
+        "y": null,
+        "z": -2123
+      }
+    },
+    {
+      "name": "Scribing | 14-26 | Valley Wanderer | Bone Ash",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -650,
+        "y": null,
+        "z": -1240
+      }
+    },
+    {
+      "name": "Scribing | 26-37 | Nether Wight \u0026 Corrupt Stone \u0026 Nether Magma Slime \u0026 Nether Blaze | Blaze Powder",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 230,
+        "y": null,
+        "z": -1300
+      }
+    },
+    {
+      "name": "Scribing | 37-48 | Dead Prospector | Gunpowder",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 1088,
+        "y": null,
+        "z": -1278
+      }
+    },
+    {
+      "name": "Scribing | 48-55 | All Mobs near Twain Mansion | Ghostly Essance",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -120,
+        "y": null,
+        "z": -369
+      }
+    },
+    {
+      "name": "Scribing | 55-70 | Lizardman Darter \u0026 Lizardman Bruiser | Lizard Tail",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -1803,
+        "y": null,
+        "z": -5253
+      }
+    },
+    {
+      "name": "Scribing | 70-80 | Blackend Soul | Ghostly Membrane",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -651,
+        "y": null,
+        "z": -5272
+      }
+    },
+    {
+      "name": "Scribing | 80-84 | Phoenix | Magic Feather",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 227,
+        "y": null,
+        "z": -5217
+      }
+    },
+    {
+      "name": "Scribing | 84-88 | Earth Borer Beetle | Earthly Aura",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 635,
+        "y": null,
+        "z": -4720
+      }
+    },
+    {
+      "name": "Scribing | 88-96 | Plasmatic Shambler \u0026 Plasmatic Shellwalker | Fiery Aura",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 411,
+        "y": null,
+        "z": -5158
+      }
+    },
+    {
+      "name": "Scribing | 96-100+ | Sky Conure \u0026 Silver Conure | Silver Feather",
+      "color": "#ffffff",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 1199,
+        "y": null,
+        "z": -4611
+      }
+    },
+    {
+      "name": "Cooking | 1-11 | Merchant | Potato",
+      "color": "#a66a03",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 180,
+        "y": null,
+        "z": -5288
+      }
+    },
+    {
+      "name": "Cooking | 11-30 | Ravine Pigman | Pigman Meat",
+      "color": "#a66a03",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -820,
+        "y": null,
+        "z": -1260
+      }
+    },
+    {
+      "name": "Cooking | 30-46 | Scrab | Mashed Insect",
+      "color": "#a66a03",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 1139,
+        "y": null,
+        "z": -1953
+      }
+    },
+    {
+      "name": "Cooking | 46-55 | Harnort Bandits | Bandit Rations",
+      "color": "#a66a03",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -1444,
+        "y": null,
+        "z": -4408
+      }
+    },
+    {
+      "name": "Cooking | 55-68 | Lizardman Darter \u0026 Lizardman Bruiser | Zhight \u0026 Lizard Tail",
+      "color": "#a66a03",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -1803,
+        "y": null,
+        "z": -5253
+      }
+    },
+    {
+      "name": "Cooking | 68-70 | Curious Foliage \u0026 Phrumkin Gangster \u0026 Luxroot Sentinel \u0026 Luxroot Sapling | Leafy Stalk",
+      "color": "#a66a03",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -950,
+        "y": null,
+        "z": -4910
+      }
+    },
+    {
+      "name": "Cooking | 70-90 | Merchant | Wybel Taffy \u0026 Ice Cream Sandwich",
+      "color": "#a66a03",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -252,
+        "y": null,
+        "z": -4955
+      }
+    },
+    {
+      "name": "Cooking | 90-95 | Pernix Monkey | Perkish Potato",
+      "color": "#a66a03",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -1721,
+        "y": null,
+        "z": -2255
+      }
+    },
+    {
+      "name": "Cooking | 95-100+ | Astrochelys Manis | Manis Carpace",
+      "color": "#a66a03",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -1437,
+        "y": null,
+        "z": -3316
+      }
+    },
+    {
+      "name": "Alchemy | 1-11 | Yahya Apprentic \u0026 Red Mooshroom | Red Mushroom \u0026 Brown Mushroom",
+      "color": "#cf11c5",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 580,
+        "y": null,
+        "z": -1548
+      }
+    },
+    {
+      "name": "Alchemy | 11-26 | Ravine Pigman | Pigman Meat",
+      "color": "#cf11c5",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -820,
+        "y": null,
+        "z": -1260
+      }
+    },
+    {
+      "name": "Alchemy | 26-37 | Nether Wight \u0026 Corrupt Stone \u0026 Nether Magma Slime \u0026 Nether Blaze | Blaze Powder",
+      "color": "#cf11c5",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 230,
+        "y": null,
+        "z": -1300
+      }
+    },
+    {
+      "name": "Alchemy | 37-50 | Dead Prospector | Gunpowder",
+      "color": "#cf11c5",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 1088,
+        "y": null,
+        "z": -1278
+      }
+    },
+    {
+      "name": "Alchemy | 50-55 | Cursed Silk Spider | Torn Skin",
+      "color": "#cf11c5",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -1842,
+        "y": null,
+        "z": -5369
+      }
+    },
+    {
+      "name": "Alchemy | 55-71 | Swamp Naga | Naga Tail",
+      "color": "#cf11c5",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -1550,
+        "y": null,
+        "z": -5404
+      }
+    },
+    {
+      "name": "Alchemy | 55-71 | Merchant | Zhight Herbal Mix",
+      "color": "#cf11c5",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -580,
+        "y": null,
+        "z": -2788
+      }
+    },
+    {
+      "name": "Alchemy | 71-76 | Any Myconid | Myconid Spores",
+      "color": "#cf11c5",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -950,
+        "y": null,
+        "z": -4700
+      }
+    },
+    {
+      "name": "Alchemy | 76-100+ | Royal Bug | Royal Bug\u0027s Blood",
+      "color": "#cf11c5",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": -650,
+        "y": null,
+        "z": -4720
+      }
+    },
+    {
+      "name": "Alchemy | 97-132 | Dernic Luker \u0026 Umbrela Senitel \u0026 Wildered Miner | Ominous Pearel",
+      "color": "#cf11c5",
+      "icon": "flag",
+      "visibility": "hidden",
+      "location": {
+        "x": 615,
+        "y": null,
+        "z": -1022
+      }
+    },
+    {
+      "name": "Weaponsmithing | 1-20 | Merchant | Rotten Flesh",
+      "color": "#ffffff",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 158,
+        "y": null,
+        "z": -5194
+      }
+    },
+    {
+      "name": "Weaponsmithing | 20-32 | Seagull \u0026 Cursed Pirate | Waterlogged Branch",
+      "color": "#ffffff",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 750,
+        "y": null,
+        "z": -2417
+      }
+    },
+    {
+      "name": "Weaponsmithing | 32-41 | Dead Prospector | Gritty Rocks",
+      "color": "#ffffff",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 1088,
+        "y": null,
+        "z": -1278
+      }
+    },
+    {
+      "name": "Weaponsmithing | 32-41 | Gritty Zombie \u0026 Sandshorn Skeleton | Gritty Rocks",
+      "color": "#ffffff",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 1388,
+        "y": null,
+        "z": -2001
+      }
+    },
+    {
+      "name": "Weaponsmithing | 41-54 | Any Wolf | Wolf Fang",
+      "color": "#ffffff",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 185,
+        "y": null,
+        "z": -708
+      }
+    },
+    {
+      "name": "Weaponsmithing | 54-74 | Merchant | Zombie Eye",
+      "color": "#ffffff",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 159,
+        "y": null,
+        "z": -5194
+      }
+    },
+    {
+      "name": "Weaponsmithing | 74-96 | Gollier | Gollier Iron",
+      "color": "#ffffff",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -764,
+        "y": null,
+        "z": -4514
+      }
+    },
+    {
+      "name": "Weaponsmithing | 96+ | Wildered Miner \u0026 Emerald Enthralled | Forgotten Pickaxe",
+      "color": "#ffffff",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 615,
+        "y": null,
+        "z": -1022
+      }
+    },
+    {
+      "name": "Woodworking | 1-3 | Merchant | Rotten Flesh",
+      "color": "#8c6d08",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 158,
+        "y": null,
+        "z": -5194
+      }
+    },
+    {
+      "name": "Woodworking | 3-20 | Forest Spider \u0026 Young Forest Spider | Forest Web",
+      "color": "#8c6d08",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -254,
+        "y": null,
+        "z": -1592
+      }
+    },
+    {
+      "name": "Woodworking | 20-44 | Seagull \u0026 Cursed Pirate | Waterlogged Branch",
+      "color": "#8c6d08",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -1733,
+        "y": null,
+        "z": -5468
+      }
+    },
+    {
+      "name": "Woodworking | 44-54 | Orc Lookout \u0026 Orc Fighter | Orc Eye",
+      "color": "#8c6d08",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -2040,
+        "y": null,
+        "z": -4753
+      }
+    },
+    {
+      "name": "Woodworking | 54-76 | Merchant | Zombie Eye",
+      "color": "#8c6d08",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 159,
+        "y": null,
+        "z": -5194
+      }
+    },
+    {
+      "name": "Woodworking | 76-92 | Royal Bug | Royal Bug\u0027s Blood",
+      "color": "#8c6d08",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -650,
+        "y": null,
+        "z": -4720
+      }
+    },
+    {
+      "name": "Woodworking | 92+ | Cryostone Golem \u0026 Frosted Guard | Unmeltable Ice",
+      "color": "#8c6d08",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 1412,
+        "y": null,
+        "z": -5455
+      }
+    },
+    {
+      "name": "Armouring | 1-21 | Sheep | Wool",
+      "color": "#73cc1b",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 367,
+        "y": null,
+        "z": -1602
+      }
+    },
+    {
+      "name": "Armouring | 21-30 | Merchant | Bone Meal",
+      "color": "#73cc1b",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 340,
+        "y": null,
+        "z": -2007
+      }
+    },
+    {
+      "name": "Armouring | 30-54 | Dead Prospector | Cracked Skin",
+      "color": "#73cc1b",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 1088,
+        "y": null,
+        "z": -1278
+      }
+    },
+    {
+      "name": "Armouring | 54-70 | Merchant | Zombie Eye",
+      "color": "#73cc1b",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 159,
+        "y": null,
+        "z": -5194
+      }
+    },
+    {
+      "name": "Armouring | 70-74 | Any Myconid | Elemental Crystal",
+      "color": "#73cc1b",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -950,
+        "y": null,
+        "z": -4700
+      }
+    },
+    {
+      "name": "Armouring | 74-85 | Gollier | Gollier Iron",
+      "color": "#73cc1b",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -764,
+        "y": null,
+        "z": -4514
+      }
+    },
+    {
+      "name": "Armouring | 85-90 | Any Robot except Scrap | Robot Antena",
+      "color": "#73cc1b",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -1523,
+        "y": null,
+        "z": -2748
+      }
+    },
+    {
+      "name": "Armouring | 90-96 | Astrochyles Manis | Turtle Shell",
+      "color": "#73cc1b",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -1437,
+        "y": null,
+        "z": -3316
+      }
+    },
+    {
+      "name": "Armouring | 90-96 | Cyclopse | Stone Plating",
+      "color": "#73cc1b",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 183,
+        "y": null,
+        "z": -4737
+      }
+    },
+    {
+      "name": "Armouring | 96+ | Wildered Miner \u0026 Emerald Enthralled | Forgotten Pickaxe",
+      "color": "#73cc1b",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 615,
+        "y": null,
+        "z": -1022
+      }
+    },
+    {
+      "name": "Tailoring | 1-3 | Sheep | Wool",
+      "color": "#1ad9b9",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 367,
+        "y": null,
+        "z": -1602
+      }
+    },
+    {
+      "name": "Tailoring | 3-21 | Forest SPider \u0026 Young Forest Spider | Forest Web",
+      "color": "#1ad9b9",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -254,
+        "y": null,
+        "z": -1592
+      }
+    },
+    {
+      "name": "Tailoring | 21-30 | Merchant | Bone Meal",
+      "color": "#1ad9b9",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 159,
+        "y": null,
+        "z": -5194
+      }
+    },
+    {
+      "name": "Tailoring | 30-45 | Dead Prospector | Cracked Skin",
+      "color": "#1ad9b9",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 1088,
+        "y": null,
+        "z": -1278
+      }
+    },
+    {
+      "name": "Tailoring | 45-54 | Nessak Mobs | Snow Clump",
+      "color": "#1ad9b9",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 201,
+        "y": null,
+        "z": -756
+      }
+    },
+    {
+      "name": "Tailoring | 54-78 | Merchant | Zombie Eye",
+      "color": "#1ad9b9",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 159,
+        "y": null,
+        "z": -5194
+      }
+    },
+    {
+      "name": "Tailoring | 78-92 | Merchant | Licorice Ropes",
+      "color": "#1ad9b9",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -252,
+        "y": null,
+        "z": -4955
+      }
+    },
+    {
+      "name": "Tailoring | 92+ | Umbral Sentinel \u0026 Detached Shadow | Sentient Shadow",
+      "color": "#1ad9b9",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 615,
+        "y": null,
+        "z": -1022
+      }
+    },
+    {
+      "name": "Jeweling | 1-25 | Forest Spider \u0026 Young Forest Spider | Forest Web",
+      "color": "#d6022d",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -254,
+        "y": null,
+        "z": -1592
+      }
+    },
+    {
+      "name": "Jeweling | 25-47 | Dead Prospector | Fake Tooth \u0026 Gold Bar",
+      "color": "#d6022d",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 1088,
+        "y": null,
+        "z": -1278
+      }
+    },
+    {
+      "name": "Jeweling | 47-55 | Restless Armor \u0026 Cavalary Specter | Pillaged Fragment",
+      "color": "#d6022d",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -16,
+        "y": null,
+        "z": -373
+      }
+    },
+    {
+      "name": "Jeweling | 55-63 | Tribal Raindancer | Broken Antic Bead",
+      "color": "#d6022d",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -595,
+        "y": null,
+        "z": -546
+      }
+    },
+    {
+      "name": "Jeweling | 63-71 | Tribal Raindancer | Native Jadeite",
+      "color": "#d6022d",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -595,
+        "y": null,
+        "z": -546
+      }
+    },
+    {
+      "name": "Jeweling | 71-73 | Wandering Skeleton \u0026 Tribal Raindancer | Lost Talisman",
+      "color": "#d6022d",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -595,
+        "y": null,
+        "z": -546
+      }
+    },
+    {
+      "name": "Jeweling | 73-86 | Bandits | Stack Of Coins",
+      "color": "#d6022d",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": -210,
+        "y": null,
+        "z": -5090
+      }
+    },
+    {
+      "name": "Jeweling | 86-92 | Minotaurs | Ivory Tusks",
+      "color": "#d6022d",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 456,
+        "y": null,
+        "z": -5138
+      }
+    },
+    {
+      "name": "Jeweling | 92+ | Adventuring Skyrider | Skyrider Coin",
+      "color": "#d6022d",
+      "icon": "diamond",
+      "visibility": "hidden",
+      "location": {
+        "x": 1276,
+        "y": null,
+        "z": -4725
+      }
+    },
+    {
+      "name": "Fishing | 0-10 | VLow | 11 | T1/T2",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": -635,
+        "y": null,
+        "z": -1540
+      }
+    },
+    {
+      "name": "Fishing | 10-20 | VLow | 9+3 | T2/T3",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": 55,
+        "y": null,
+        "z": -1500
+      }
+    },
+    {
+      "name": "Fishing | 20-30 | None | 25 | T3/T4",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": -690,
+        "y": null,
+        "z": -1320
+      }
+    },
+    {
+      "name": "Fishing | 30-40 | None | 18 | T4/T5",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": 1190,
+        "y": null,
+        "z": -2245
+      }
+    },
+    {
+      "name": "Fishing | 40-50 | None | 45 | T5/T6",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": 1135,
+        "y": null,
+        "z": -3385
+      }
+    },
+    {
+      "name": "Fishing | 50-60 | None | 15 | T6/T7",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": -640,
+        "y": null,
+        "z": -915
+      }
+    },
+    {
+      "name": "Fishing | 60-70 | VLow | 21 | T7/T8",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": -815,
+        "y": null,
+        "z": -425
+      }
+    },
+    {
+      "name": "Fishing | 70-80 | VLow | 10 | T8/T9",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": -565,
+        "y": null,
+        "z": -5060
+      }
+    },
+    {
+      "name": "Fishing | 80-90 | None | 36 | T9/T10",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": -1835,
+        "y": null,
+        "z": -2220
+      }
+    },
+    {
+      "name": "Fishing | 90-100 | None | 27 | T10/T11",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": 1540,
+        "y": null,
+        "z": -5340
+      }
+    },
+    {
+      "name": "Fishing | 100-110 | None | 12 | T11/T12",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": 760,
+        "y": null,
+        "z": -4365
+      }
+    },
+    {
+      "name": "Fishing | 110+ | Medium | 12 | T12",
+      "color": "#ffffff",
+      "icon": "fishing",
+      "visibility": "hidden",
+      "location": {
+        "x": 985,
+        "y": 126,
+        "z": -1090
+      }
+    },
+    {
+      "name": "Farming | 1-10 | None | 37 | T1/T2",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": 775,
+        "y": 79,
+        "z": -5150
+      }
+    },
+    {
+      "name": "Farming | 10-20 | None | 41 | T2/T3",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": -1705,
+        "y": 59,
+        "z": -5490
+      }
+    },
+    {
+      "name": "Farming | 20-30 | None | 13 | T3/T4",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": 815,
+        "y": 90,
+        "z": -2135
+      }
+    },
+    {
+      "name": "Farming | 30-40 | VLow | 14 | T4/T5",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": 370,
+        "y": 39,
+        "z": -2830
+      }
+    },
+    {
+      "name": "Farming | 40-50 | VLow | 9 | T5/T6",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": -1685,
+        "y": 55,
+        "z": -5290
+      }
+    },
+    {
+      "name": "Farming | 50-60 | None | 14 | T6/T7",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": -2044,
+        "y": null,
+        "z": -5390
+      }
+    },
+    {
+      "name": "Farming | 60-70 | Low | 16 | T7/T8",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": -730,
+        "y": 44,
+        "z": -5040
+      }
+    },
+    {
+      "name": "Farming | 70-80 | Low | 18 | T8/T9",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": -730,
+        "y": 44,
+        "z": -5040
+      }
+    },
+    {
+      "name": "Farming | 80-90 | None | 15 | T9/T10",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": 500,
+        "y": 47,
+        "z": -5515
+      }
+    },
+    {
+      "name": "Farming | 90-100 | Low | 12 | T10/T11",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": -1820,
+        "y": 107,
+        "z": -3265
+      }
+    },
+    {
+      "name": "Farming | 100-110 | None | 14+15 | T11/T12",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": 852,
+        "y": 40,
+        "z": -4452
+      }
+    },
+    {
+      "name": "Farming | 110+ | None | 11 | T12",
+      "color": "#ffffff",
+      "icon": "farming",
+      "visibility": "hidden",
+      "location": {
+        "x": 1090,
+        "y": 135,
+        "z": -1135
+      }
+    },
+    {
+      "name": "Mining | 0-10 | Low | 10 | T1/T2",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": -545,
+        "y": 67,
+        "z": -1520
+      }
+    },
+    {
+      "name": "Mining | 10-20 | None | 20 | T2/T3",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": 785,
+        "y": 86,
+        "z": -1242
+      }
+    },
+    {
+      "name": "Mining | 20-30 | None | 15 | T3/T4",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": 860,
+        "y": 28,
+        "z": -1296
+      }
+    },
+    {
+      "name": "Mining | 30-40 | VLow | 18 | T4/T5",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": 1480,
+        "y": 94,
+        "z": -1420
+      }
+    },
+    {
+      "name": "Mining | 40-50 | Low | 20 | T5/T6",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": -463,
+        "y": 33,
+        "z": -386
+      }
+    },
+    {
+      "name": "Mining | 50-60 | None | 18 | T6/T7",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": -640,
+        "y": 86,
+        "z": -1030
+      }
+    },
+    {
+      "name": "Mining | 60-70 | Low | 13 | T7/T8",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": -150,
+        "y": 33,
+        "z": -5120
+      }
+    },
+    {
+      "name": "Mining | 70-80 | Medium | 22 | T8/T9",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": -790,
+        "y": 53,
+        "z": -5380
+      }
+    },
+    {
+      "name": "Mining | 80-90 | None | 19 | T9/T10",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": 1540,
+        "y": 62,
+        "z": -5340
+      }
+    },
+    {
+      "name": "Mining | 90-100 | None | 28 | T10/T11",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": 1540,
+        "y": 62,
+        "z": -5340
+      }
+    },
+    {
+      "name": "Mining | 100-110 | None | 31 | T11/T12",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": 840,
+        "y": 48,
+        "z": -4323
+      }
+    },
+    {
+      "name": "Mining | 110+ | VLow | 10 | T12",
+      "color": "#ffffff",
+      "icon": "mining",
+      "visibility": "hidden",
+      "location": {
+        "x": 485,
+        "y": 93,
+        "z": -530
+      }
+    },
+    {
+      "name": "Woodcutting | 1-10 | Low | T1/T2",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": -366,
+        "y": 68,
+        "z": -1734
+      }
+    },
+    {
+      "name": "Wppdcutting | 10-20 | Medium | 50 | T2/T3",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": 280,
+        "y": 667,
+        "z": -1586
+      }
+    },
+    {
+      "name": "Woodcutting | 20-30 | Low | 30 | T3/T4",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": 873,
+        "y": 44,
+        "z": -2845
+      }
+    },
+    {
+      "name": "Woodcutting | 30-40 | Low | 30 | T4/T5",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": 705,
+        "y": 70,
+        "z": -2096
+      }
+    },
+    {
+      "name": "Woodcutting | 40-50 | Low | 60 | T5/T6",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": 117,
+        "y": 70,
+        "z": -863
+      }
+    },
+    {
+      "name": "Woodcutting | 50-60 | None | 20 | T6/T7",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": -942,
+        "y": 23,
+        "z": -728
+      }
+    },
+    {
+      "name": "Woodcutting | 60-70 | VLow | 20 | T7/T8",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": -1022,
+        "y": 53,
+        "z": -5230
+      }
+    },
+    {
+      "name": "Woodcutting | 70-80 | None | 30 | T8/T9 (Enter the taproot there are light trees)",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": -1329,
+        "y": null,
+        "z": -5611
+      }
+    },
+    {
+      "name": "Woodcutting | 80-90 | None | 26 | T9/T10",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": 646,
+        "y": 78,
+        "z": -5057
+      }
+    },
+    {
+      "name": "Woodcutting | 90-100 | Medium | 60 | T10/T11",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": -1738,
+        "y": 114,
+        "z": -2935
+      }
+    },
+    {
+      "name": "Woodcutting | 100-110 | None | 17 | T11/T12",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": 769,
+        "y": 100,
+        "z": -4642
+      }
+    },
+    {
+      "name": "Woodcutting | 110+ | High | 45 | T12",
+      "color": "#ffffff",
+      "icon": "woodcutting",
+      "visibility": "hidden",
+      "location": {
+        "x": 963,
+        "y": 73,
+        "z": -633
+      }
+    }
+  ]
